@@ -14,3 +14,11 @@
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
 	branch = 16.0
+[submodule "e-commerce"]
+	path = e-commerce
+	url = git@github.com:Vauxoo/e-commerce.git
+	branch = 16.0
+[submodule "stock-logistics-availability"]
+	path = stock-logistics-availability
+	url = git@github.com:Vauxoo/stock-logistics-availability.git
+	branch = 16.0
