@@ -22,3 +22,7 @@
 	path = stock-logistics-availability
 	url = git@github.com:Vauxoo/stock-logistics-availability.git
 	branch = 16.0
+[submodule "apps"]
+	path = apps
+	url = git@git.vauxoo.com:vauxoo/apps.git
+	branch = 16.0
